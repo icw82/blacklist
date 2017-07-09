@@ -82,6 +82,10 @@
         }, {
             "vk": 314270620
         }, {
+            "vk": 4914176,
+            "name": "alexander ledovskikh",
+            "comment": "Суть: https://www.youtube.com/watch?v=QgIdsC7nQDg"
+        }, {
             "vk": 347012962,
             "until": 2026
         }, {
@@ -98,6 +102,9 @@
         }, {
             "tw": "ymblanter",
             "comment": "http://wikireality.ru/wiki/Yaroslav_Blanter"
+        }, {
+            "fb": "100002063047458",
+            "comment": "Идиот. https://www.facebook.com/ramensky/posts/1193345330703010?comment_id=1193711443999732"
         }
     ],
     "groups": [
@@ -107,6 +114,8 @@
             "vk": 16748120
         }, {
             "vk": 16906183
+        }, {
+            "vk": 24563537
         }, {
             "vk": 24625990
         }, {
@@ -151,6 +160,8 @@
         }, {
             "vk": 63912902,
             "comment": "https://www.youtube.com/watch?v=vDp4lGB3iUg"
+        }, {
+            "vk": 1350385
         }
     ]
 }
